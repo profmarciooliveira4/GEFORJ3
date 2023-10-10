@@ -1,8 +1,11 @@
-h1 p {
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+p {
     text-align: center;
     font-size: 20px;
 }
-
 p {
     color:aquamarine;
 }
