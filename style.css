@@ -2,10 +2,19 @@
 background-color: rgb(128, 119, 0);
 }
 
+.inicial {
+    background-color: #224578;
+}
+
+.texto-inicial {
+    background-color: #007734;
+}
+
 #fundo {
     text-align: center;
     font-size: 30px;
 }
+
 .texto {
     margin: 10px;
     text-align: justify;
