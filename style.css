@@ -13,3 +13,7 @@ background-color: rgb(128, 119, 0);
     color:aquamarine;
 }
 
+li {
+     list-style-type: "\270D";
+}
+
